@@ -49,11 +49,11 @@
 
 ## 🚀 Featured Projects
 
-### 🎙 [PodStream — Podcast Streaming Web App](https://github.com/YOUR_USERNAME)
+### 🎙 [PodStream — Podcast Streaming Web App](https://github.com/sarveshtwr)
 Full-stack podcast streaming platform with authentication and role-based access.
 RESTful APIs built with Node.js and Express.js, MongoDB for users/podcasts/playlists/history, responsive React UI, JWT-based auth.
 
-### 🎬 [Movie Recommendation System](https://github.com/YOUR_USERNAME)
+### 🎬 [Movie Recommendation System](https://github.com/sarveshtwr)
 Python-based content-filtering recommendation engine with data preprocessing and similarity analysis using Pandas and NumPy.
 
 ---
