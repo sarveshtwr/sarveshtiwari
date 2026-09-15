@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sarvesh Tiwari
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Educator;Full+Stack+MERN+Developer;AI+%26+ML+Enthusiast;Turning+Code+into+Classrooms)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Educator;Full+Stack+MERN+Developer;AI+%26+ML+Enthusiast;Turning+Code+into+Classrooms)
 
 </div>
 
@@ -63,16 +63,6 @@ Python-based content-filtering recommendation engine with data preprocessing and
 **Thyroid Disease Detection Using Neural Network**
 Research Trends in Computational and Information Sciences, MKSES Publication, 2025 — ISBN: 978-81-19746-49-1
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
